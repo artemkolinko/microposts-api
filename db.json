@@ -2,7 +2,7 @@
   "posts": [
     {
       "title": "JSON Server Fake API",
-      "body": "To work propely you shoul past url of your real API Server",
+      "body": "To work properly you should paste url of your real API Server in source code",
       "id": 1
     },
     {
